@@ -1,2 +1,27 @@
-nasssiiiiii
-değiştir
+📱 HİSAR KURS ZİL VE ANONNS SİSTEMİ - KULLANIM KILAVUZU
+Bu yazılım, kurs ve eğitim kurumları için özel olarak geliştirilmiş, web tabanlı kontrol yeteneğine sahip akıllı bir zil sistemidir.
+
+🚀 SİSTEM NASIL ÇALIŞIR?
+Otomatik Zamanlama: Program, belirlediğiniz gün ve saatlerde kayıtlı ses dosyalarını otomatik olarak tetikler.
+
+Web Panel Erişimi: Bilgisayarınızın IP adresi üzerinden (Örn: 192.168.1.100:5000) yerel ağdaki tüm telefon ve tabletlerden sisteme erişebilirsiniz.
+
+Canlı Anons: Web panelindeki mikrofon butonuna basılı tutarak, sesinizi anlık olarak ana bilgisayara ve dolayısıyla ses sistemine aktarabilirsiniz.
+
+Hızlı Ziller: Panel üzerinden tek dokunuşla Talebe, Hoca veya Tenefüs zillerini manuel olarak çalabilirsiniz.
+
+🎤 DİĞER CİHAZLARDA MİKROFON SORUNU VE ÇÖZÜMÜ
+Tarayıcılar (Chrome/Safari), güvenlik nedeniyle http (güvensiz) bağlantılarda mikrofonu engeller. Başka bir cihazdan anons yapabilmek için:
+
+Tarayıcınızın adres çubuğuna chrome://flags/#unsafely-treat-insecure-origin-as-secure yazın.
+
+Enabled seçeneğini seçin.
+
+Alttaki kutuya panel adresinizi (Örn: http://192.168.1.x:5000) yazıp tarayıcıyı yeniden başlatın.
+
+👨‍💻 GELİŞTİRİCİ HAKKINDA
+Bu sistem SERDAR MERT tarafından eğitim kurumlarının operasyonel süreçlerini kolaylaştırmak amacıyla geliştirilmiştir.
+
+İletişim & Destek: 📩 E-posta: hizmetim41@gmail.com 🛠️ Sürüm: V101.20 Pro
+
+Her türlü teknik destek, özelleştirme talebi veya hata bildirimi için yukarıdaki e-posta adresi üzerinden iletişime geçebilirsiniz.
